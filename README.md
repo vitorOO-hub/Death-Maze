@@ -1,10 +1,7 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/zi7nDYTD)
 # DEATH MAZE
 
 
-[ESTE ARQUIVO É APENAS UMA BASE PARA O SEU README. FIQUE À VONTADE PARA MODIFICÁ-LO COMO QUISER - APAGUE ESTA MENSAGEM :)]
-
-Este é um projeto de um jogo [roguelike](https://pt.wikipedia.org/wiki/Roguelike) desenvolvido por DEATH MAZE como projeto individual na disciplina Developer Life do semestre do curso de Ciência da Computação do Insper. O jogo foi desenvolvido em Python, utilizando o módulo [curses](https://docs.python.org/3/library/curses.html) para a interface gráfica.
+Este é um projeto de um jogo [roguelike](https://pt.wikipedia.org/wiki/Roguelike) desenvolvido por Vitor Oliveira Santos como projeto individual na disciplina Developer Life do semestre do curso de Ciência da Computação do Insper. O jogo foi desenvolvido em Python, utilizando o módulo [curses](https://docs.python.org/3/library/curses.html) para a interface gráfica.
 
 ## Descrição do jogo
 
@@ -30,11 +27,3 @@ Com o Windows Terminal instalado, precisamos instalar também o módulo `windows
 ```bash
 pip install windows-curses
 ```
-
-Pronto! Agora você pode seguir os passos da seção ["Como jogar"](#como-jogar) para executar o jogo.
-
-## Outros links
-
-- [Enunciado do projeto](docs/enunciado.md)
-- [Funcionalidades implementadas](docs/funcionalidades-implementadas.md)
-- [Documentação das funções fornecidas pelos professores](codigo/motor_grafico/README.md)
