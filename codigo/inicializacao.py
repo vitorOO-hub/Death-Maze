@@ -1,9 +1,6 @@
 from random import randint
 
-from constantes import *  # Você pode usar as constantes definidas em constantes.py, se achar útil
-                          # Por exemplo, usar a constante CORACAO é o mesmo que colocar a string '❤'
-                          # diretamente no código
-
+from constantes import * 
 
 def gera_posicao_desocupada(posicoes_ocupadas, largura_mapa, altura_mapa):
     
