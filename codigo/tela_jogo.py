@@ -1,8 +1,5 @@
-from constantes import *  # Você pode usar as constantes definidas em constantes.py, se achar útil
-                          # Por exemplo, usar a constante CORACAO é o mesmo que colocar a string '❤'
-                          # diretamente no código
-import motor_grafico as motor  # Utilize as funções do arquivo motor_grafico.py para desenhar na tela
-                               # Por exemplo: motor.preenche_fundo(janela, [0, 0, 0]) preenche o fundo de preto
+from constantes import *  
+import motor_grafico as motor 
 
 import random
 
